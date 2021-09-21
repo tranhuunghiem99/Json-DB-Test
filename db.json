@@ -55,30 +55,6 @@
             "email": "ht@gmail.com",
             "gender": "Nam",
             "adress": "VL"
-        },
-        {
-            "id": 8,
-            "name": "Dồng Văn Cống",
-            "phone": "+84 925 123 543",
-            "email": "vc762@gmail.com",
-            "gender": "Nam",
-            "adress": "ĐT"
-        },
-        {
-            "id": 1,
-            "name": "Lê Thị Lếch",
-            "phone": "+84 125 123 999",
-            "email": "ltl@gmail.com",
-            "gender": "Nữ",
-            "adress": "BTr"
-        },
-        {
-            "id": 1,
-            "name": "Cẩu Thị Bền",
-            "phone": "+84 125 826 543",
-            "email": "ctnn@gmail.com",
-            "gender": "Nữ",
-            "adress": "BL"
         }
     ],
     "image": [
