@@ -89,20 +89,15 @@
             "type":"Tech",
             "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfOMuKrWfHR2rBiHc2JPDoGR1M_FnYk2BwbQ&usqp=CAU"
         },
+    
         {
             "id": 2,
-            "title": "PC4",
-            "type":"Tech",
-            "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRelNe-17vcilTumjaz1QPcQQn8aPjTGmcvJbVaAFSLzPja9h0sEZCjC1n8YkzY-qHujvE&usqp=CAU"
-        },
-        {
-            "id": 3,
             "title": "ROG",
             "type":"Tech",
             "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2_G6GH-x7Py8ecEfAtBCbI1o8BVu8lVdkgw&usqp=CAU"
         },
         {
-            "id": 4,
+            "id": 3,
             "title": "Lion",
             "type":"Life",
             "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2ImdQqbhHe_jeqy_vHbdaB9mFR5godjQLzA&usqp=CAU"
