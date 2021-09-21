@@ -1,0 +1,99 @@
+{
+    "user": [
+        {
+            "id": 1,
+            "name": "Trần Hữu Nghiêm",
+            "phone": "+84 125 123 543",
+            "email": "trhn@gmail.com",
+            "gender": "Nam",
+            "adress": "TG"
+        },
+        {
+            "id": 2,
+            "name": "TKQ",
+            "phone": "+84 125 123 533",
+            "email": "t6hn@gmail.com",
+            "gender": "Nam",
+            "adress": "TG"
+        },
+        {
+            "id": 3,
+            "name": "bành thị mẹt",
+            "phone": "+84 125 123 443",
+            "email": "btmn@gmail.com",
+            "gender": "Nữ",
+            "adress": "HN"
+        },
+        {
+            "id": 4,
+            "name": "Trần Văn Cá",
+            "phone": "+84 125 133 546",
+            "email": "tvcn@gmail.com",
+            "gender": "Nam",
+            "adress": "AG"
+        },
+        {
+            "id": 5,
+            "name": "Trần Hữu Nghiêm",
+            "phone": "+84 175 123 543",
+            "email": "trhn@gmail.com",
+            "gender": "Nam",
+            "adress": "TG"
+        },
+        {
+            "id": 6,
+            "name": "Trần Hữu Nghi",
+            "phone": "+84 125 123 548",
+            "email": "trn@gmail.com",
+            "gender": "Nam",
+            "adress": "TG"
+        },
+        {
+            "id": 7,
+            "name": "Trần Hữu ",
+            "phone": "+84 125 333 543",
+            "email": "ht@gmail.com",
+            "gender": "Nam",
+            "adress": "VL"
+        },
+        {
+            "id": 8,
+            "name": "Dồng Văn Cống",
+            "phone": "+84 925 123 543",
+            "email": "vc762@gmail.com",
+            "gender": "Nam",
+            "adress": "ĐT"
+        },
+        {
+            "id": 1,
+            "name": "Lê Thị Lếch",
+            "phone": "+84 125 123 999",
+            "email": "ltl@gmail.com",
+            "gender": "Nữ",
+            "adress": "BTr"
+        },
+        {
+            "id": 1,
+            "name": "Cẩu Thị Bền",
+            "phone": "+84 125 826 543",
+            "email": "ctnn@gmail.com",
+            "gender": "Nữ",
+            "adress": "BL"
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        },
+        {
+            "id": 2,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "tranhuunghiem99"
+    }
+}
